@@ -10,6 +10,7 @@ This plugin makes it easy for developers to invoke the `vault` command using the
 
 1. You have access to a CloudFoundry installation.
 1. The Hashicorp Vault service broker is installed and registered in the marketplace.
+1. You have the `vault` CLI tool installed.
 
 ## Installation
 
