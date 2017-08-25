@@ -21,7 +21,7 @@ go get https://github.com/govau/cf-vault/cmd/cf-vault
 cf install-plugin -f $GOPATH/bin/cf-vault
 ```
 
-Or from a pre-built [release](./releases/):
+Or from a pre-built [release](https://github.com/govau/cf-vault/releases/):
 
 ```bash
 cf install-plugin -f https://github.com/govau/cf-vault/releases/download/0.1/cf-vault.osx
